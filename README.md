@@ -1,4 +1,4 @@
-# Swabhiman_RestAPIAssignmentSolution
+# Krishnendra_RestAPIAssignmentSolution
 Graded Coding Assignment 6 (Spring Boot - RESTful APIs)
 
 -----
